@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: rebeccapurple;
+  text-align: center;
+}
+
+table {
+  border: 2px solid salmon;
+  width: 650px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+thead {
+  background-color: MediumTurquoise;
+  border: 1px dotted darkorchid;
+}
+
+td {
+  border: 1px solid darkorchid;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.tag {
+  color: Salmon;
+}
